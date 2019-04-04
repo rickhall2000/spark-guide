@@ -1,0 +1,5 @@
+data
+data
+*.log
+metastore_db
+.ipynb_checkpoints/
